@@ -12,12 +12,12 @@ scroll-behavior: smooth;
 }
 body{
 /* font-family: "Archivo Black", serif; */
-font-family: "Archivo", serif;
+font-family: sans-serif; 
 font-size: 12px;
 }
 a{
 text-decoration: none;
-font-family: "Archivo", serif;
+font-family: sans-serif; 
 color: black;
 }
 button{
@@ -85,9 +85,9 @@ nav{
   text-align: center;
 }
 .hero-h h2{
-  font-family: "Archivo Black", serif; 
+  font-family: sans-serif; 
 font-size: 40px;
-font-weight: 400;
+font-weight: 600;
 line-height: 60px;
 text-shadow: var(--text-shadow-p);
 
